@@ -1,0 +1,3 @@
+# 拒绝用户访问 private.key
+RewriteEngine on
+RewriteRule ^private\.key$ - [R=404,L]
