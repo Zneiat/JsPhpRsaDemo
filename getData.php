@@ -1,7 +1,7 @@
 <?php
 /**
- * 用 jsEncrypt 前端加密 Ajax 传输给 Php 演示
- * @link https://github.com/Zneiat/jsEncryptAndPhpDemo
+ * Js 前端进行 RSA 加密并将密文传输给 Php 解密的 演示
+ * @link https://github.com/Zneiat/JsPhpRsaDemo
  * @author Zneiat <zneiat@163.com>
  */
 
